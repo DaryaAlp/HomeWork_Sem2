@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\HW2\Задача 13\bin\Debug\net7.0\Задача 13.exe
+D:\Курсы_программирование\C#\HW2\Задача 13\bin\Debug\net7.0\Задача 13.deps.json
+D:\Курсы_программирование\C#\HW2\Задача 13\bin\Debug\net7.0\Задача 13.runtimeconfig.json
+D:\Курсы_программирование\C#\HW2\Задача 13\bin\Debug\net7.0\Задача 13.dll
+D:\Курсы_программирование\C#\HW2\Задача 13\bin\Debug\net7.0\Задача 13.pdb
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\Задача 13.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\Задача 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\Задача 13.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\Задача 13.AssemblyInfo.cs
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\Задача 13.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\Задача 13.dll
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\refint\Задача 13.dll
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\Задача 13.pdb
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\Задача 13.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW2\Задача 13\obj\Debug\net7.0\ref\Задача 13.dll

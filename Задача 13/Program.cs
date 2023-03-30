@@ -8,9 +8,17 @@
 32679 -> 6*/
 
 Console.Clear();
+Console.WriteLine("Введите число: ");
 int number =  int.Parse(Console.ReadLine());
-int result = (number % 10);
-Console.WriteLine("Третья цифра: ");
-if (number < 100){
+  if (number >=100)
+    {
+     while (number > 999)
+     {
+        number = number / 10;
+     }
+        int result = number % 10;
+        Console.WriteLine(result);
+    }
+    else if (number < 100){
    Console.WriteLine("Третьей цифры нет"); 
 }

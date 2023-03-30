@@ -8,7 +8,7 @@
 32679 -> 6*/
 
 Console.Clear();
-int num =  ReadInt("Введите трехзначное число: ");
+int num =  
 int result = (num % 10);
 
 Console.WriteLine()

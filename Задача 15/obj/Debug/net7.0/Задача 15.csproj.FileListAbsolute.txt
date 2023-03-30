@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\Задача 15.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\Задача 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\Задача 15.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\Задача 15.AssemblyInfo.cs
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\Задача 15.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW2\Задача 15\bin\Debug\net7.0\Задача 15.exe
+D:\Курсы_программирование\C#\HW2\Задача 15\bin\Debug\net7.0\Задача 15.deps.json
+D:\Курсы_программирование\C#\HW2\Задача 15\bin\Debug\net7.0\Задача 15.runtimeconfig.json
+D:\Курсы_программирование\C#\HW2\Задача 15\bin\Debug\net7.0\Задача 15.dll
+D:\Курсы_программирование\C#\HW2\Задача 15\bin\Debug\net7.0\Задача 15.pdb
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\Задача 15.dll
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\refint\Задача 15.dll
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\Задача 15.pdb
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\Задача 15.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW2\Задача 15\obj\Debug\net7.0\ref\Задача 15.dll

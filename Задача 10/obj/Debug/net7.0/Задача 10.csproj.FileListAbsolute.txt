@@ -3,3 +3,13 @@ D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\
 D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\net7.0\Задача 10.AssemblyInfoInputs.cache
 D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\net7.0\Задача 10.AssemblyInfo.cs
 D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\net7.0\Задача 10.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW2\Задача 10\bin\Debug\net7.0\Задача 10.exe
+D:\Курсы_программирование\C#\HW2\Задача 10\bin\Debug\net7.0\Задача 10.deps.json
+D:\Курсы_программирование\C#\HW2\Задача 10\bin\Debug\net7.0\Задача 10.runtimeconfig.json
+D:\Курсы_программирование\C#\HW2\Задача 10\bin\Debug\net7.0\Задача 10.dll
+D:\Курсы_программирование\C#\HW2\Задача 10\bin\Debug\net7.0\Задача 10.pdb
+D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\net7.0\Задача 10.dll
+D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\net7.0\refint\Задача 10.dll
+D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\net7.0\Задача 10.pdb
+D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\net7.0\Задача 10.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW2\Задача 10\obj\Debug\net7.0\ref\Задача 10.dll
